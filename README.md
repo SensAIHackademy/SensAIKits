@@ -3,7 +3,7 @@
 This is a collection of context-aware AI kits, fully integrated with the Meta XR SDK and Unity.  
 Vision kits are built to support Meta Camera Access (PCA).
 
-![output-onlinegiftools (1)](https://github.com/user-attachments/assets/61759309-e613-454c-a5c1-4fc4c0aaf1ef)
+![497919668-61759309-e613-454c-a5c1-4fc4c0aaf1ef](https://github.com/user-attachments/assets/27231d3b-42dc-4c8e-bc3f-356d6e9dff88)
 
 
 ## 📝 Table of Contents
@@ -37,7 +37,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 #### GitHub: 👉 [Spectacles Reachy Mini](https://github.com/V4C38/spectacles-reachy-mini) 
 
-<img src="https://github.com/V4C38/spectacles-reachy-mini/raw/main/demo.gif" alt="ReachyMiniSnap" width="540px">
+<img src="https://github.com/user-attachments/assets/f0403599-ffd0-44fa-a249-619bfb68d72a" alt="ReachyMiniSnap" width="540px">
 
 ---
 
