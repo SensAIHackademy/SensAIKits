@@ -57,7 +57,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 #### GitHub: 👉 [AI Capabilities Workbench](https://github.com/rikturnbull/xr-ai-workbench) 
 
-<img src="https://github.com/user-attachments/assets/ca964a49-e796-4770-bb2c-70bd92232aa9" alt="AICapabilities" width="540px">
+<img src="https://github.com/user-attachments/assets/c076bb52-f885-4925-9134-9ece9f9e6b0c" alt="AICapabilities" width="540px">
 
 ---
 
@@ -79,7 +79,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 #### GitHub: 👉 [Zero-Shot Object Detection Kit](https://github.com/lucas-martinic/Unity-MetaXR-AI-ZeroShot)  
 
-<img src="https://github.com/user-attachments/assets/ba80ee67-4df4-44df-9e82-703a6ceef27f" alt="MetaPCARoboflow" width="540px">
+<img src="https://github.com/user-attachments/assets/af060cf1-c1d7-4d1d-9e15-552d8bfa2212" alt="MetaPCARoboflow" width="540px">
 
 ---
 
@@ -102,7 +102,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 #### GitHub: 👉 [Custom AI Model Training Kit](http://github.com/nigelhartm/MetaPCARoboflow)  
 
-<img src="https://github.com/user-attachments/assets/5076fbf8-0844-4d00-b9fc-7bdfaa91ab48" alt="MetaPCARoboflow" width="540px">
+<img src="https://github.com/user-attachments/assets/a1ac22fc-464e-49b6-8e95-367dd802c66b" alt="MetaPCARoboflow" width="540px">
 
 ---
 
@@ -127,7 +127,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 #### GitHub: 👉 [Poker AI Assistant](https://github.com/nigelhartm/PokerAssistant)  
 
-<img src="https://github.com/user-attachments/assets/c402f050-0691-433a-8fe6-0327efd08412" alt="MetaPCARoboflow" width="540px">
+<img src="https://github.com/user-attachments/assets/f1708647-8ff1-47a1-b5a2-89a327b1f620" alt="MetaPCARoboflow" width="540px">
 
 ---
 
