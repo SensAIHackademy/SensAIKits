@@ -133,7 +133,9 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 ## 6. Acknowledgements & Credits
 * Join [SensAI Hack](https://sensaihack.com) and connect with a community of creators and innovators.
-* Check out our [SensAI Knowledge Hub](https://xrbootcamp.notion.site/SensAI-Knowledge-Hub-21f0095e34d880ec9826d9749ae56619) for curated learning use cases and inspiration across AI, XR, and robotics.
+* Explore our [SensAI World Model Kits](https://github.com/SensAIHackademy/SensAIWorldModelKits) for templates and tools for building interactive 3D world models across WebXR, Unity, and Unreal Engine.
+* Check out our [SensAI PICO Kits](https://github.com/SensAIHackademy/SensAI-PICO-Kits) for XR development tools optimized for PICO devices, including voice, multi-view panels, and world models.
+* Visit our [SensAI Knowledge Hub](https://xrbootcamp.notion.site/SensAI-Knowledge-Hub-21f0095e34d880ec9826d9749ae56619) for curated learning use cases and inspiration across AI, XR, and robotics.
 * Huge thanks to [Lucas Martinic](https://www.linkedin.com/in/lucas-martinic/) for the Zero-Shot Object Detection Kit – definitely follow him for more awesome AI projects.
 * Thanks to [Nigel Hartman](https://www.linkedin.com/in/nigelhartman/) for the Custom AI Model Training Kit (Roboflow) – a great source of AI & XR insights.
 * Big shoutout to [Rik Turnbull](https://x.com/rikturnbull) for the AI Capabilities Workbench – his AI workflows and XR demos are super inspiring.
