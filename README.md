@@ -7,7 +7,7 @@ Vision kits are built to support Meta Camera Access (PCA).
 
 ## 🎥 Tutorials & Demos
 
-[Watch the playlist](https://www.youtube.com/watch?v=WmOXKcG9dBk&list=PLRQI9ZSqDkKcs_nAnBkrKzbskUQyqnggh)
+[Watch the playlist](https://www.youtube.com/playlist?list=PLRQI9ZSqDkKcs_nAnBkrKzbskUQyqnggh)
 ▶️ Explore step-by-step tutorials and demos
 
 ---
