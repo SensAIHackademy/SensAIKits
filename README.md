@@ -1,4 +1,4 @@
-# SensAI Kits 🎎
+# SensAI Vision Kits 🎎
 
 This is a collection of context-aware AI kits, fully integrated with the Meta XR SDK and Unity.  
 Vision kits are built to support Meta Camera Access (PCA).
